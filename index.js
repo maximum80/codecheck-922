@@ -16,6 +16,8 @@ var
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
+app.use(express.static(__dirname + '/public'))
+
 app.get('/', function (req, resp, next) {
   resp.json('PONG');
   return next();
