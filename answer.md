@@ -1,4 +1,4 @@
-## [アプリケーション名](DeployしたHerokuのURLをこちらに記入してください)
+## [SPIRNTポートフォリオ](http://sample-sprint.herokuapp.com/)
 
 ### 作品の説明
 
@@ -7,6 +7,9 @@
 ### 創意工夫した点
 
 ### 利用した技術（言語・フレームワーク・ライブラリ等）
+- Node.js
+- Express
+- Javascript
 
 ### 参照したサイト・解答・リファレンス等
 
