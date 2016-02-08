@@ -1,7 +1,8 @@
 'use strict';
 
 var
-  app = require('express')(),
+  express = require('express'),
+  app = express(),
   port = process.env.PORT || 3000,
   bodyParser = require('body-parser'),
   knex = require('knex')({
